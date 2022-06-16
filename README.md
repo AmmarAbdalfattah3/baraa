@@ -1,1 +1,3 @@
 # baraa
+
+## project notes
